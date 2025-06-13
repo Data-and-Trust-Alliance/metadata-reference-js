@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Data and Trust Alliance",
-  "license": "",
+  "license": "Apache License, Version 2.0",
   "dependencies": {
     "@types/uuid": "^10.0.0",
     "iso-3166": "^4.3.0",
